@@ -1,8 +1,8 @@
 ```txt
 > whoami
 Christos
-> locate $HOME
+> locate ~
 Athens, Greece
-> ls $HOME
+> ls ~
 Security Web3 .NET Rust React Python
 ```
