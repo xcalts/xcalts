@@ -25,10 +25,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: j3ssie
+          user: xcalts
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Saigon
+          config_timezone: Europe/Athens
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
